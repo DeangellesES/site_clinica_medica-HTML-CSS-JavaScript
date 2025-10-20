@@ -89,6 +89,10 @@ header {
     width: 100%;
 }
 
+.menu-principal a:hover:last-child::after {
+    width: 0%;
+}
+
 #menu-celular {
     font-size: 2.5rem;
     color: var(--cor);
@@ -101,17 +105,17 @@ header {
     color: var(--cor-principal);
 }
 
-.menu-principal .btn {
-    background-color: var(--cor);
+.btn {
+    background-color: var(--cor) !important;
     font-size: 1.7rem;
-    color: var(--cor-branca);
+    color: var(--cor-branca) !important;
     cursor: pointer;
     padding: 1.2rem 2rem;
     border-radius: 5px;
 }
 
-.icone-direita .btn:hover {
-    background-color: var(--cor-principal);
+.btn:hover {
+    background-color: var(--cor-principal) !important;
 }
 
 /* FIM CABEÇALHO DO SITE LINKS E LOGOMARCA */
