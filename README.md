@@ -43,4 +43,8 @@
   <li>!important para algumas sobrposições de estilos</li>
   <li>manipulação de background</li>
   <li>background-attachment: fixed; </li>
+  <li>pseudo elemento ::after com content=""</li>
+  <li>transform: scale(1.2); transition: transform 0.5s;</li>
+  <li>bem documentado completamente</li>
+  <li>clip-path: polygon(10% 0, 100% 0, 100% 100%, 5% 100%); para desennhar com css</li>
 </ul>
