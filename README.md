@@ -37,4 +37,9 @@
   <li>footer bem estruturado e estilizado</li>
   <li>font do google fonts</li>
   <li>:root para criação de variáveis</li>
+  <li>efeito menu responsivo para mobile, escondendo a navegacao e surgindo ao clicar no icone</li>
+  <li>boa estilização geral com *</li>
+  <li>position: fixed, relative e absolute</li>
+  <li>!import para algumas sobrposições de estilos</li>
+  <li>manipulação de background</li>
 </ul>
