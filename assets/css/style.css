@@ -101,7 +101,7 @@ header {
     color: var(--cor-principal);
 }
 
-.icone-direita .btn {
+.menu-principal .btn {
     background-color: var(--cor);
     font-size: 1.7rem;
     color: var(--cor-branca);
