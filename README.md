@@ -16,7 +16,7 @@
 
 <h2>✨ Funcionalidades</h2>
 <ul>
-  <li>Mostrar todos os tipos de Serviços</li>
+  <li>Mostrar todos os tipos de Serviços da Clínica</li>
   <li>Mostrar Médicos</li>
   <li>Mostrar Contatos, redes sociais e Localização</li>
   <li>Depoimentos de clientes e classificações de serviços e atendimentos</li>
