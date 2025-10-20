@@ -40,6 +40,7 @@
   <li>efeito menu responsivo para mobile, escondendo a navegacao e surgindo ao clicar no icone</li>
   <li>boa estilização geral com *</li>
   <li>position: fixed, relative e absolute</li>
-  <li>!import para algumas sobrposições de estilos</li>
+  <li>!important para algumas sobrposições de estilos</li>
   <li>manipulação de background</li>
+  <li>background-attachment: fixed; </li>
 </ul>
